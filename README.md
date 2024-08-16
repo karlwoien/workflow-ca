@@ -7,6 +7,9 @@ This project is forked from the [Noroff Social Media Client repo](https://github
 The goal of the assignment was to use the skills and knowledge gathered from the course Workflow, and improve the quality of a package by establishing helpful workflows that make the development process more efficient.
 
 ## Status
+[![Automated Unit Testing](https://github.com/karlwoien/workflow-ca/actions/workflows/unit-test.yml/badge.svg?branch=workflow)](https://github.com/karlwoien/workflow-ca/actions/workflows/unit-test.yml)
+[![Automated E2E Testing](https://github.com/karlwoien/workflow-ca/actions/workflows/e2e-test.yml/badge.svg?branch=workflow)](https://github.com/karlwoien/workflow-ca/actions/workflows/e2e-test.yml)
+[![Deploy static content to Pages](https://github.com/karlwoien/workflow-ca/actions/workflows/pages.yml/badge.svg?branch=master)](https://github.com/karlwoien/workflow-ca/actions/workflows/pages.yml)
 
 ## Getting started
 
